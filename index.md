@@ -10,11 +10,13 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Project -1
+Fraud Detection : 
+Details about Project 
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+# Project - 2
 
-## Header 2
+Details About Project - 2
 
 > This is a blockquote following a header.
 >
